@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Git Update Test 1
-Version: 0.1.1
+Version: 0.1.2
 Description: Testing GirHub Updater
 Author: Gabe Herbert	
 Plugin URI: PLUGIN SITE HERE
