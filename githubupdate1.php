@@ -13,11 +13,11 @@ GitHub Branch:     master
 
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
-	$lyrics = "Hello, Dolly
-Well, hello, Dolly
+	$lyrics = "Hello, Dude
+Well, hello, Dude
 It's so nice to have you back where you belong
-You're lookin' swell, Dolly
-I can tell, Dolly
+You're lookin' swell, Dude
+I can tell, Dude
 You're still glowin', you're still crowin'
 You're still goin' strong
 We feel the room swayin'
